@@ -8,4 +8,4 @@ management:
         include: '*'
 greeting-service:
   greeting: "Hello"
-  default-value: "World"
+  default-value: "World - Atualizado!!!"
